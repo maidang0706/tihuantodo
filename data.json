@@ -1,6 +1,26 @@
 {
   "todos": [
     {
+      "text": "ayh-1800",
+      "period": 3,
+      "date": "2026-09-27",
+      "repeat": {
+        "type": 2,
+        "days": [
+          26
+        ],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "periodAnchor": {
+        "date": "2026-09-27",
+        "period": 3
+      },
+      "id": "1790435704313-28pbi9"
+    },
+    {
       "text": "AYH",
       "period": 2,
       "date": "2026-09-26",
@@ -19,29 +39,7 @@
         "period": 2
       },
       "id": "1790434578449-sf9yps"
-    },
-    {
-      "text": "ayh-1800",
-      "period": 3,
-      "date": "2026-09-27",
-      "repeat": {
-        "type": 2,
-        "days": [
-          26
-        ],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [
-        "2026-09-27"
-      ],
-      "periodAnchor": {
-        "date": "2026-09-27",
-        "period": 3
-      },
-      "id": "1790435704313-28pbi9"
     }
   ],
-  "updateTime": "2026/9/27 00:51:42"
+  "updateTime": "2026/9/27 00:52:47"
 }
