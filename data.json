@@ -1,8 +1,8 @@
 {
   "todos": [
     {
-      "text": "XYF-946",
-      "period": 7,
+      "text": "ayh-1800",
+      "period": 3,
       "date": "2026-09-27",
       "repeat": {
         "type": 2,
@@ -13,21 +13,15 @@
         "end": ""
       },
       "done": false,
-      "onlyDone": [],
+      "onlyDone": [
+        "2026-09-27"
+      ],
       "periodAnchor": {
         "date": "2026-09-27",
         "period": 3
       },
       "id": "1790435704313-28pbi9"
-    },
-    {
-      "text": "啊啊啊",
-      "period": 1,
-      "date": "2026-09-27",
-      "done": false,
-      "onlyDone": [],
-      "id": "1790445127490-f3ov2w"
     }
   ],
-  "updateTime": "2026/9/27 01:52:24"
+  "updateTime": "2026/9/27 01:52:36"
 }
