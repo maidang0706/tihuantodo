@@ -19,27 +19,7 @@
         "period": 3
       },
       "id": "1790435704313-28pbi9"
-    },
-    {
-      "text": "AYH",
-      "period": 2,
-      "date": "2026-09-26",
-      "repeat": {
-        "type": 2,
-        "days": [
-          26
-        ],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "periodAnchor": {
-        "date": "2026-09-26",
-        "period": 2
-      },
-      "id": "1790434578449-sf9yps"
     }
   ],
-  "updateTime": "2026/9/27 01:39:50"
+  "updateTime": "2026/9/27 01:40:56"
 }
