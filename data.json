@@ -1,25 +1,4 @@
 {
-  "todos": [
-    {
-      "text": "ayh-1800",
-      "period": 3,
-      "date": "2026-09-27",
-      "repeat": {
-        "type": 2,
-        "days": [
-          26
-        ],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "periodAnchor": {
-        "date": "2026-09-27",
-        "period": 3
-      },
-      "id": "1790435704313-28pbi9"
-    }
-  ],
-  "updateTime": "2026/9/27 01:52:39"
+  "todos": [],
+  "updateTime": "2026/9/27 01:52:43"
 }
