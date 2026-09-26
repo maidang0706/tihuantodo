@@ -13,9 +13,7 @@
         "end": ""
       },
       "done": false,
-      "onlyDone": [
-        "2026-09-26"
-      ],
+      "onlyDone": [],
       "periodAnchor": {
         "date": "2026-09-27",
         "period": 3
@@ -35,9 +33,7 @@
         "end": ""
       },
       "done": false,
-      "onlyDone": [
-        "2026-09-26"
-      ],
+      "onlyDone": [],
       "periodAnchor": {
         "date": "2026-09-26",
         "period": 2
@@ -45,5 +41,5 @@
       "id": "1790434578449-sf9yps"
     }
   ],
-  "updateTime": "2026/9/27 00:11:07"
+  "updateTime": "2026/9/27 00:11:13"
 }
