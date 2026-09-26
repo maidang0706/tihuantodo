@@ -33,9 +33,7 @@
         "end": ""
       },
       "done": false,
-      "onlyDone": [
-        "2026-09-27"
-      ],
+      "onlyDone": [],
       "periodAnchor": {
         "date": "2026-09-27",
         "period": 3
@@ -43,5 +41,5 @@
       "id": "1790435704313-28pbi9"
     }
   ],
-  "updateTime": "2026/9/27 01:12:44"
+  "updateTime": "2026/9/27 01:12:52"
 }
