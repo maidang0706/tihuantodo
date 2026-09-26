@@ -1,25 +1,4 @@
 {
-  "todos": [
-    {
-      "text": "AYH",
-      "period": 2,
-      "date": "2026-09-26",
-      "repeat": {
-        "type": 2,
-        "days": [
-          26
-        ],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "periodAnchor": {
-        "date": "2026-09-26",
-        "period": 2
-      },
-      "id": "1790434578449-sf9yps"
-    }
-  ],
-  "updateTime": "2026/9/26 23:05:51"
+  "todos": [],
+  "updateTime": "2026/9/26 23:12:38"
 }
