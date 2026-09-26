@@ -1,4 +1,33 @@
 {
-  "todos": [],
-  "updateTime": "2026/9/27 01:52:43"
+  "todos": [
+    {
+      "text": "XYF-946",
+      "period": 7,
+      "date": "2026-09-27",
+      "repeat": {
+        "type": 2,
+        "days": [
+          26
+        ],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "periodAnchor": {
+        "date": "2026-09-27",
+        "period": 3
+      },
+      "id": "1790435704313-28pbi9"
+    },
+    {
+      "text": "啊啊啊",
+      "period": 1,
+      "date": "2026-09-27",
+      "done": false,
+      "onlyDone": [],
+      "id": "1790445127490-f3ov2w"
+    }
+  ],
+  "updateTime": "2026/9/27 01:52:51"
 }
