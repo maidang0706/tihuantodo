@@ -1,33 +1,4 @@
 {
-  "todos": [
-    {
-      "text": "XYF-946",
-      "period": 7,
-      "date": "2026-09-27",
-      "repeat": {
-        "type": 2,
-        "days": [
-          26
-        ],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "periodAnchor": {
-        "date": "2026-09-27",
-        "period": 3
-      },
-      "id": "1790435704313-28pbi9"
-    },
-    {
-      "text": "XYF-1296",
-      "period": 6,
-      "date": "2026-09-30",
-      "done": false,
-      "onlyDone": [],
-      "id": "1790445221824-7ap24v"
-    }
-  ],
-  "updateTime": "2026/9/27 02:08:44"
+  "todos": [],
+  "updateTime": "2026/9/27 10:02:01"
 }
